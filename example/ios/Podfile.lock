@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_mobile_vision (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_mobile_vision (from `.symlinks/plugins/flutter_mobile_vision/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: .symlinks/flutter/ios
+  flutter_mobile_vision:
+    :path: .symlinks/plugins/flutter_mobile_vision/ios
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter_mobile_vision: a458f11f6475b73635bf6cbacae15cfc68c2ca9d
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.4.0
